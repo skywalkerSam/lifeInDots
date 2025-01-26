@@ -1,2 +1,1 @@
-# lifeInDots
-Life in dots
+# Life In Dots
